@@ -47,7 +47,7 @@
 <br>
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosirock&anuraghazra&theme=dracula&icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosirock&anuraghazra&theme=dracula&icons=true)<t>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosirock&layout=compact&theme=dracula)
 </div>
 
