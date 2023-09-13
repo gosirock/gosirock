@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Miro-#050038?style=flat-square&logo=miro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
