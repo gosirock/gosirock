@@ -19,8 +19,7 @@
 <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
