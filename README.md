@@ -42,10 +42,8 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/ height="25">
 </div>
-
-
-
-
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosirock&anuraghazra&theme=dracula&icons=true)
 
