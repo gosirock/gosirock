@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/ height="25">
 </div>
+---
 </br>
 <div align="center">
   <h3>Language</h3>
