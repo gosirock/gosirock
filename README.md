@@ -10,6 +10,16 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Miro-#050038?style=flat-square&logo=miro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
