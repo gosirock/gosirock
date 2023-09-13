@@ -10,10 +10,10 @@
 </br>
 <h3>Language</h3>
 <div>
-  <img src="https://img.shields.io/badge/java-123321?style=flat-square&logo=&logoColor=white"/ height="25">
+  <img src="https://img.shields.io/badge/java-#FF160B?style=flat-square&logo=&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/ height="25">
-  <img src="https://img.shields.io/badge/html-123321?style=flat-square&logo=&logoColor=white"/ height="25">
+  <img src="https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/ height="25">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/ height="25">
