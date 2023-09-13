@@ -21,5 +21,5 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-123321?style=flat-square&logo=&logoColor=white"/>
